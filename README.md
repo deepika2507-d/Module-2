@@ -23,6 +23,7 @@ z=bin(a)
 print(z)
 ```
 OUTPUT:
+
 <img width="656" height="156" alt="image" src="https://github.com/user-attachments/assets/61edcd89-232c-4f76-a7a5-dcd804234522" />
 
 Result:
