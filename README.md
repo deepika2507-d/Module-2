@@ -26,6 +26,7 @@ OUTPUT:
 <img width="656" height="156" alt="image" src="https://github.com/user-attachments/assets/61edcd89-232c-4f76-a7a5-dcd804234522" />
 
 Result:
+
 Thus, the python program was executed successfully.
 
 2. Functions in Python: Modulo Calculator
@@ -71,6 +72,7 @@ Thus, the python program was executed successfully.
 To write a Python program that defines a lambda function which takes two arguments a and b, and returns their sum.
 
 🧠 Algorithm:
+
 1.Get two integer inputs from the user.
 
 2.Use a lambda function to define a function f that returns a + b.
@@ -145,7 +147,7 @@ OUTPUT:
 
 Result:
 
-Thus, the python program was executed successfully.
+   Thus, the python program was executed successfully.
 
 5. Loops in Python: Palindrome Number Checker
 
